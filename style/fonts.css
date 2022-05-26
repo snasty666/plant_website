@@ -1,0 +1,99 @@
+/* Подключаем шрифты */
+@font-face {
+	font-family: 'DM Sans';
+	src: local('DMSans-Bold'), local('DMSans Bold'),
+			url('/fonts/DMSans-Bold.woff2') format('woff2'),
+			url('/fonts/DMSans-Bold.woff') format('woff'),
+			url('/fonts/DMSans-Bold.ttf') format('ttf');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'DM Sans';
+	src: local('DMSans-Regular'), local('DMSans Regular'),
+			url('/fonts/DMSans-Regular.woff2') format('woff2'),
+			url('/fonts/DMSans-Regular.woff') format('woff'),
+			url('/fonts/DMSans-Regular.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'DM Sans';
+	src: local('DMSans-Medium'), local('DMSans Medium'),
+			url('/fonts/DMSans-Medium.woff2') format('woff2'),
+			url('/fonts/DMSans-Medium.woff') format('woff'),
+			url('/fonts/DMSans-Medium.ttf') format('ttf');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nunito';
+	src: local('Nunito-Regular'), local('Nunito Regular'),
+			url('/fonts/Nunito-Regular.woff2') format('woff2'),
+			url('/fonts/Nunito-Regular.woff') format('woff'),
+			url('/fonts/Nunito-Regular.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nunito';
+	src: local('Nunito-Medium'), local('Nunito Medium'),
+			url('/fonts/Nunito-Medium.woff2') format('woff2'),
+			url('/fonts/Nunito-Medium.woff') format('woff'),
+			url('/fonts/Nunito-Regular.ttf') format('ttf');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nunito';
+	src: local('Nunito-ExtraBold'), local('Nunito ExtraBold'),
+			url('/fonts/Nunito-ExtraBold.woff2') format('woff2'),
+			url('/fonts/Nunito-ExtraBold.woff') format('woff'),
+			url('/fonts/Nunito-ExtraBold.ttf') format('ttf');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nunito';
+	src: local('Nunito-Black'), local('Nunito Black'),
+			url('/fonts/Nunito-Black.woff2') format('woff2'),
+			url('/fonts/Nunito-Black.woff') format('woff')
+			url('/fonts/Nunito-Black.ttf') format('ttf');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nunito';
+	src:local('Nunito-SemiBold'), local('Nunito SemiBold'),
+			url('/fonts/Nunito-SemiBold.woff2') format('woff2'),
+			url('/fonts/Nunito-SemiBold.woff') format('woff'),
+			url('/fonts/Nunito-SemiBold.ttf') format('ttf');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nunito';
+	src:local('Nunito-Bold'), local('Nunito Bold'),
+			url('/fonts/Nunito-Bold.woff2') format('woff2'),
+			url('/fonts/Nunito-Bold.woff') format('woff'),
+			url('/fonts/Nunito-Bold.ttf') format('ttf');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
